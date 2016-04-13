@@ -1,0 +1,22 @@
+{
+  "name": "literify",
+  "version": "0.1.0",
+  "description": "browserify transform for literate-programming-lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AZaviruha/literify.git"
+  },
+  "keywords": [
+    "literate"
+  ],
+  "author": "A.Zaviruha <a.zaviruha@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AZaviruha/literify/issues"
+  },
+  "homepage": "https://github.com/AZaviruha/literify#readme"
+}
