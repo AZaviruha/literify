@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/AZaviruha/literify/issues"
   },
-  "homepage": "https://github.com/AZaviruha/literify#readme"
+  "homepage": "https://github.com/AZaviruha/literify#readme",
+  "dependencies": {
+    "literate-programming-lib": "^1.9.0",
+    "through2": "^2.0.1"
+  }
 }

@@ -5,6 +5,8 @@ Quick-and-dirty implementation of browserify transform for [literate-programming
 ## Usage
 
 ```javascript
+var literify = require('literify');
+
 gulp.task('build', function () {
 	return browserify('src/index.md'), {
 			debug: true,
